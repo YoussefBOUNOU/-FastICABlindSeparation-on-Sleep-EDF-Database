@@ -36,7 +36,7 @@ You can install the required libraries using the following command:
 ```bash
 pip install numpy matplotlib seaborn scikit-learn scipy
 
-
+``` 
 ## Usage
 
 1. Clone the repository:
