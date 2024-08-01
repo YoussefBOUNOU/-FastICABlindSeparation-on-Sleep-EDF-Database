@@ -43,7 +43,7 @@ pip install numpy matplotlib seaborn scikit-learn scipy
 
     ```bash
     git clone https://github.com/YoussefBOUNOU/-FastICABlindSeparation-on-Sleep-EDF-Database.git
-    cd YOUR_REPOSITORY_NAME
+    cd -FastICABlindSeparation-on-Sleep-EDF-Database
     ```
 
 2. Run the Jupyter notebook to see the implementation and results:
